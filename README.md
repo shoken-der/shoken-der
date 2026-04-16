@@ -11,7 +11,7 @@
 ---
 
 ## 🌟 About Me
-- 💻 Domain: Full Stack Developer (React + Node)
+- 💻 Domain: Full Stack Developer (React + Node + Spring)
 - 🚀 Passionate about building real-world applications
 - 📚 Currently learning System Design & Backend Optimization
 
