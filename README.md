@@ -41,7 +41,7 @@
 ## 🚀 Projects
 
 ### 💬 ConvoX – Real-Time Chat Application  
-- ⚡ Built a WhatsApp-like real-time chat system using React, Spring Boot, WebSockets (STOMP), and MySQL  
+- ⚡ Built a real-time chat system using React, Spring Boot, WebSockets, and MySQL  
 - 🔐 Implemented secure authentication with Spring Security & JWT  
 - 🔄 Features: real-time messaging, typing indicators, read receipts, replies, emoji reactions, and media sharing  
 - 🚀 Optimized performance with caching, pagination, and smooth chat navigation (sub-50ms perceived latency)  
